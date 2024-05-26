@@ -4,7 +4,8 @@ This project is Todo List Application with React Hooks  using  with Reactjs
 FIRST ### `NPM` I OR `### `NPM INSTALL` TO DOWNLOAD nodemodules
 after that kadib marku installaion kudhamaado  ayaad npm run dev dheh saas ayu project kugu soo kaca
 ### `npm dev`
-<img width="953" alt="finally output reactjs todolists" src="https://github.com/mohamed1323/Todo-List-Application-with-React-Hooks/assets/114732963/25173fcf-ef21-49fd-8be3-920e8c51c5dc">
+<img width="953" alt="Capture" src="https://github.com/Pheyzal/Todo-List-Assigment/assets/165474476/5adb085b-982c-47f2-94ef-ed58eccdd9c6">
+
 
 
 
@@ -31,8 +32,8 @@ TodoProvider: Context provider to manage the state of todos.
 • TodoFilter: Component to filter todos based on their status.
 • Custom Hooks: A few custom hooks for specific functionalitie
 
- Contact:😊 me if you need any help 
-gmail= mohaamiin15@gmail.com
+
+
 
 ## Learn More
 
